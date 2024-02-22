@@ -16,13 +16,9 @@ Below is a list of technologies I have worked with
 |             |               |            |             | styled components|                  | 
 |             |               |            |             | AntDesign        |                  |
 |             |               |            |             | Material UI      |                  |
-| ●                | ●                | ●                | ●                |
-|------------------|------------------|------------------|------------------|
  |RESTful API      | Storybook        | GitHub           | SQL              |
  | WebSocket        | GrowthBook       | Bitbucket        | Firebase         |
  | Pusher           | i18next          | GitLab           |                  |
 |Postman          |                  |                  |                  |
-|                 |                  |                  |                  |
-|                                  |                  |                  |                  |
- |                                                    |                  |                  |                  |
+
 
