@@ -9,7 +9,7 @@ Below is a list of technologies I have worked with
 
 <table>
   <tr>
-    <td>HTML 5</td>
+    <td style={background: "yellow"}>HTML 5</td>
     <td>JavaScript ES6</td>
     <td>React</td>
     <td>Redux</td>
