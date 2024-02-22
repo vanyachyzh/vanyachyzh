@@ -72,13 +72,13 @@ Let's build something amazing together! 💻✨
 
 ### Here are some of my projects that I have participated in
 
-<img src="/athotelLogo.svg" height="40px" />
+<img src="/athotelLogo.svg" height="60px" />
 
 Athotel is a comprehensive hotel booking platform designed to provide users with a seamless experience from registration to booking. The platform allows users to register, search for hotels, adjust search parameters, and securely complete bookings. Built with React, TypeScript, and Tailwind CSS, Athotel leverages modern web technologies to deliver a fast and responsive user interface.
 
 <img src="/athotel.gif" style="width: 400px" />
 
-## Key Features:
+#### Key features:
 
 1. **User Registration:** Users can easily sign up for an account to access the platform's features.
 2. **Hotel Search:** Utilizing the power of React and Next.js, Athotel enables users to search for hotels based on various criteria such as location, dates, and amenities.
