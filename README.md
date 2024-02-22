@@ -7,16 +7,22 @@ Let's build something amazing together! 💻✨
 
 Below is a list of technologies I have worked with
 
-| ●           | ●             | ●          | ●           | ●                | ●                | ●                | ●                | ●                | ●                |
-|-------------|---------------|------------|-------------|------------------|------------------|------------------|------------------|------------------|------------------|
-| HTML 5      | JavaScript ES6| React      | Redux       | CSS              | Cypress          | RESTful API      | Storybook        | GitHub           | SQL              |
-|             | TypeScript    | React Hooks|             | Tailwind ❤️      | Jest             | WebSocket        | GrowthBook       | Bitbucket        | Firebase         |
-|             |               | Next.js    |             | SASS             |                  | Pusher           | i18next          | GitLab           |                  |
-|             |               |            |             | Less             |                  | Postman          |                  |                  |                  |
-|             |               |            |             | styled components|                  |                  |                  |                  |                  |
-|             |               |            |             | AntDesign        |                  |                  |                  |                  |                  |
-|             |               |            |             | Material UI      |                  |                  |                  |                  |                  |
-
-
-
+| ●           | ●             | ●          | ●           | ●                | ●                |
+|-------------|---------------|------------|-------------|------------------|------------------|
+| HTML 5      | JavaScript ES6| React      | Redux       | CSS              | Cypress          |
+|             | TypeScript    | React Hooks|             | Tailwind ❤️      | Jest             |
+|             |               | Next.js    |             | SASS             |                  | 
+|             |               |            |             | Less             |                  | 
+|             |               |            |             | styled components|                  | 
+|             |               |            |             | AntDesign        |                  |
+|             |               |            |             | Material UI      |                  |
+| ●                | ●                | ●                | ●                |
+|------------------|------------------|------------------|------------------|
+ |RESTful API      | Storybook        | GitHub           | SQL              |
+ | WebSocket        | GrowthBook       | Bitbucket        | Firebase         |
+ | Pusher           | i18next          | GitLab           |                  |
+|Postman          |                  |                  |                  |
+|                 |                  |                  |                  |
+|                                  |                  |                  |                  |
+ |                                                    |                  |                  |                  |
 
