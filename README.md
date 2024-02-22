@@ -11,9 +11,7 @@ Below is a list of technologies I have worked with
 
 ### Popular Technologies
 
-| Column 1       | Column 2       | Column 3       |
-|----------------|----------------|----------------|
-| React          | Angular        | Vue.js         |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="20px" /> React         | Angular        | Vue.js         |
 | Node.js        | Django         | Flask          |
 | TensorFlow     | PyTorch        | Keras          |
 | Docker         | Kubernetes     | Jenkins        |
