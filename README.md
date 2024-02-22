@@ -78,6 +78,22 @@ Athotel is a comprehensive hotel booking platform designed to provide users with
 
 <img src="/athotel.gif" style="width: 400px" />
 
+## Key Features:
+
+1. **User Registration:** Users can easily sign up for an account to access the platform's features.
+2. **Hotel Search:** Utilizing the power of React and Next.js, Athotel enables users to search for hotels based on various criteria such as location, dates, and amenities.
+3. **Advanced Searching:** Athotel provides users with the ability to adjust their search parameters to find the perfect accommodation.
+4. **Secure Booking:** Integrated with Stripe for payment processing, Athotel ensures secure and hassle-free booking transactions.
+5. **React Context API:** Leveraging the React Context API, Athotel manages global state and provides a seamless user experience across different components.
+6. **Testing with Cypress:** Athotel is thoroughly tested using Cypress to ensure robustness and reliability.
+7. **Component Documentation with Storybook:** With Storybook, Athotel provides comprehensive documentation for its components, making it easy for developers to understand and utilize them.
+8. **Code Quality Assurance with Husky:** Athotel utilizes Husky for code quality assurance, ensuring consistent code standards and preventing issues before they occur.
+9. **User Authentication with Auth0:** Integrated with Auth0, Athotel provides secure user authentication and authorization.
+10. **Analytics with Segment:** Athotel tracks user interactions and behavior using Segment, enabling data-driven decisions and optimizations.
+11. **User Feedback with GrowthBook:** Utilizing GrowthBook, Athotel collects and analyzes user feedback to continuously improve the platform.
+12. **UI Components with AntDesign and Tailwind:** Athotel utilizes AntDesign and Tailwind CSS to create beautiful and responsive user interface components.
+
+
 
 
 
