@@ -74,7 +74,7 @@ Let's build something amazing together! 💻✨
 
 ## @hotel
 
-<img src="/athotel.gif" style="max-width: 400px" />
+<img src="/athotel.gif" style="maxWidth: 400px" />
 
 
 
