@@ -78,17 +78,17 @@ Coding isn't just a job for me, it's my passion! I'm excited to join a top-notch
 
 #### Key features:
 
-1. **Hotel Search:** Utilizing the power of React and Next.js, Athotel enables users to search for hotels based on various criteria such as location, dates, and amenities.
-2. **Advanced Searching:** Athotel provides users with the ability to adjust their search parameters to find the perfect accommodation.
-3. **Secure Booking:** Integrated with Stripe for payment processing, Athotel ensures secure and hassle-free booking transactions.
-4. **React Context API:** Leveraging the React Context API, Athotel manages global state and provides a seamless user experience across different components.
-5. **Testing with Cypress:** Athotel is thoroughly tested using Cypress to ensure robustness and reliability.
-6. **Component Documentation with Storybook:** With Storybook, Athotel provides comprehensive documentation for its components, making it easy for developers to understand and utilize them.
-7. **Code Quality Assurance with Husky:** Athotel utilizes Husky for code quality assurance, ensuring consistent code standards and preventing issues before they occur.
-8. **User Authentication with Auth0:** Integrated with Auth0, Athotel provides secure user authentication and authorization.
-9. **Analytics with Segment:** Athotel tracks user interactions and behavior using Segment, enabling data-driven decisions and optimizations.
-10. **User Feedback with GrowthBook:** Utilizing GrowthBook, Athotel collects and analyzes user feedback to continuously improve the platform.
-11. **UI Components with AntDesign and Tailwind:** Athotel utilizes AntDesign and Tailwind CSS to create beautiful and responsive user interface components.
+1. **Hotel Search**
+2. **Advanced Searching**
+3. **Secure Booking**
+4. **React Context API**
+5. **Testing with Cypress**
+6. **Component Documentation with Storybook**
+7. **Code Quality Assurance with Husky**
+8. **User Authentication with Auth0**
+9. **Analytics with Segment**
+10. **User Feedback with GrowthBook**
+11. **UI Components with AntDesign and Tailwind** 
 
 ---
 # Let's build something amazing together! 💻✨
