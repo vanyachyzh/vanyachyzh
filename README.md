@@ -5,6 +5,6 @@ Coding isn't just a job for me, it's my passion! I'm excited to join a top-notch
 
 Let's build something amazing together! 💻✨
 
-My skills:
+Below is a list of technologies I have worked with
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="20px" /> React, <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="20px" /> React,
 
