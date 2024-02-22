@@ -7,14 +7,14 @@ Let's build something amazing together! 💻✨
 
 Below is a list of technologies I have worked with
 
-|<span style="color:red; font-size:24px">.</span>| React Hooks| Next.js    | Redux      |
+|●| ●| ●   | ●    |●| ●| ●   | ●    |
 |------------|------------|------------|------------|
-| React      | React Hooks| Next.js    | Redux      |
-| JavaScript | TypeScript | SASS       | Tailwind   |
-| Styled Components | AntDesign | Storybook | Jest       |
-| Cypress    | SQL        | Firebase   | RESTful API|
-| WebSocket  | Pusher     | Postman    | GitHub     |
-| Bitbucket  | GitLab     | i18next    | GrowthBook |
+| HTML 5| React Hooks| Next.js    | Redux      |
+|| TypeScript | SASS       | Tailwind   |
+|| AntDesign | Storybook | Jest       |
+|| SQL        | Firebase   | RESTful API|
+|| Pusher     | Postman    | GitHub     |
+|| GitLab     | i18next    | GrowthBook |
 
 
 
