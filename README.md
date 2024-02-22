@@ -9,12 +9,12 @@ Below is a list of technologies I have worked with
 
 |●| ●| ●   | ●    |
 |------------|------------|------------|------------|
-| HTML 5| React Hooks| Next.js    | Redux      |
-|| TypeScript | SASS       | Tailwind   |
-|| AntDesign | Storybook | Jest       |
-|| SQL        | Firebase   | RESTful API|
-|| Pusher     | Postman    | GitHub     |
-|| GitLab     | i18next    | GrowthBook |
+| HTML 5| JavaScript ES6| React   | Redux      |
+|| TypeScript |  Next.js     | Tailwind   |
+||| | React Hooks    |
+|||   | RESTful API|
+|||     | GitHub     |
+|||     | GrowthBook |
 
 
 
