@@ -7,7 +7,7 @@ Let's build something amazing together! 💻✨
 
 ---
 
-### Below is a list of technologies I have worked with
+### Below is a list of technologies I have worked with 
 
 <table>
   <tr>
@@ -70,9 +70,9 @@ Let's build something amazing together! 💻✨
 
 ---
 
-### Here are some of my projects that I have participated in
+### Here are some of commercial projects that I have participated in ↓↓↓↓↓↓
 
-<img src="/athotelLogo.svg" height="60px" />
+<img src="/athotelLogo.svg" height="60px" /> [Link](https://athotel.com/)
 
 Athotel is a comprehensive hotel booking platform designed to provide users with a seamless experience from registration to booking. The platform allows users to register, search for hotels, adjust search parameters, and securely complete bookings. Built with React, TypeScript, and Tailwind CSS, Athotel leverages modern web technologies to deliver a fast and responsive user interface.
 
