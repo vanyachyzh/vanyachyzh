@@ -11,17 +11,19 @@ Below is a list of technologies I have worked with
 
 ### Popular Technologies
 
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="20px" /> React         | Angular        | Vue.js         |
-| Node.js        | Django         | Flask          |
-| TensorFlow     | PyTorch        | Keras          |
-| Docker         | Kubernetes     | Jenkins        |
-| HTML5          | CSS3           | JavaScript     |
-| TypeScript     | Java           | Python         |
-| Ruby on Rails  | ASP.NET        | Express.js     |
-| MySQL          | PostgreSQL     | MongoDB        |
-| AWS            | Azure          | Google Cloud   |
-| Flutter        | Swift          | Kotlin         |
-| React Native   | Xamarin        | Ionic          |
-| Git            | GitHub         | GitLab         |
-| WordPress      | Drupal         | Joomla         |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="10px" /> React       | Angular     | Vue.js   |
+|-------------|-------------|----------|
+| Node.js     | Django      | Flask    |
+| TensorFlow  | PyTorch     | Keras    |
+| Docker      | Kubernetes  | Jenkins  |
+| HTML5       | CSS3        | JavaScript |
+| TypeScript  | Java        | Python   |
+| Ruby on Rails | ASP.NET   | Express.js |
+| MySQL       | PostgreSQL  | MongoDB  |
+| AWS         | Azure       | Google Cloud |
+| Flutter     | Swift       | Kotlin   |
+| React Native| Xamarin     | Ionic    |
+| Git         | GitHub      | GitLab   |
+| WordPress   | Drupal      | Joomla   |
+
 
