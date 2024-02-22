@@ -74,7 +74,7 @@ Let's build something amazing together! 💻✨
 
 ## @hotel
 
-![athotel](/hero.jpg)
+![athotel](/athotel.gif)
 
 
 
