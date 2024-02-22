@@ -70,7 +70,7 @@ Let's build something amazing together! 💻✨
 
 ---
 
-### Here are some of commercial projects that I have participated in ↓↓↓↓↓↓
+### 👨🏻‍💻 Here are some of commercial projects that I have participated in 👨🏻‍💻
 
 <img src="/athotelLogo.svg" height="60px" />
 
