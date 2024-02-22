@@ -7,14 +7,15 @@ Let's build something amazing together! 💻✨
 
 Below is a list of technologies I have worked with
 
-|●      | ●              | ●            | ●         | ●    |
-|-------|----------------|---------------|------------|-----|
-| HTML 5| JavaScript ES6| React          | Redux      | CSS|
-|       | TypeScript    | React Hooks    |          | Tailwind   |
-|       |              | Next.js         |        | SASS|
-|       |              |                 |        | Less|
-|       |              |                 |         | styled-components   |
-|       |               |                |        | |
+|●      | ●              | ●            | ●           | ●                 |
+|-------|----------------|---------------|------------|-------------------|
+| HTML 5| JavaScript ES6| React          | Redux      | CSS               |
+|       | TypeScript    | React Hooks    |            | Tailwind          |
+|       |              | Next.js         |            | SASS              |
+|       |              |                 |            | Less              |
+|       |              |                 |            | styled components |
+|       |               |                |            | AntDesign         |
+|       |               |                |            | Material UI       |
 
 
 
