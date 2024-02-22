@@ -73,7 +73,8 @@ Let's build something amazing together! 💻✨
 ### Here are some of my projects that I have participated in
 
 ## @hotel
-<img src="/athotel.gif" style="width: 100px" />
+
+<img src="/athotel.gif" style="max-width: 500px" />
 
 
 
