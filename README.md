@@ -7,15 +7,72 @@ Let's build something amazing together! 💻✨
 
 Below is a list of technologies I have worked with
 
-| ●             | ●               | ●           | ●             | ●                  | ●                  |
-|---------------|-----------------|-------------|---------------|--------------------|--------------------|
-| HTML 5        | JavaScript ES6  | React       | Redux         | CSS                | Cypress            |
-|               | TypeScript      | React Hooks |               | Tailwind ❤️        | Jest               |
-| RESTful API   |                 | Next.js     |SQL            | SASS               |                    |
-| WebSocket     | Storybook       |             |Firebase       | Less               |                    |
-| Pusher        | GrowthBook      | GitHub      |               | styled components  |                    |
-| Postman       | i18next         | Bitbucket   |               | AntDesign          |                    |
-|               |                 | GitLab      |               | Material UI        |                    |
+<table>
+  <tr>
+    <td>●</td>
+    <td>●</td>
+    <td>●</td>
+    <td>●</td>
+    <td>●</td>
+    <td>●</td>
+  </tr>
+  <tr>
+    <td>HTML 5</td>
+    <td>JavaScript ES6</td>
+    <td>React</td>
+    <td>Redux</td>
+    <td>CSS</td>
+    <td>Cypress</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>TypeScript</td>
+    <td>React Hooks</td>
+    <td></td>
+    <td>Tailwind ❤️</td>
+    <td>Jest</td>
+  </tr>
+  <tr>
+    <td>RESTful API</td>
+    <td></td>
+    <td>Next.js</td>
+    <td>SQL</td>
+    <td>SASS</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>WebSocket</td>
+    <td>Storybook</td>
+    <td></td>
+    <td>Firebase</td>
+    <td>Less</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Pusher</td>
+    <td>GrowthBook</td>
+    <td>GitHub</td>
+    <td></td>
+    <td>styled components</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Postman</td>
+    <td>i18next</td>
+    <td>Bitbucket</td>
+    <td></td>
+    <td>AntDesign</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>GitLab</td>
+    <td></td>
+    <td>Material UI</td>
+    <td></td>
+  </tr>
+</table>
 
 
 
