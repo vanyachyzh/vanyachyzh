@@ -72,8 +72,7 @@ Let's build something amazing together! 💻✨
 
 ### Here are some of my projects that I have participated in
 
-
-- <img src="/athotelLogo.svg" height="40px" />
+<img src="/athotelLogo.svg" height="40px" />
 
 <img src="/athotel.gif" style="width: 400px" />
 
