@@ -70,27 +70,22 @@ Coding isn't just a job for me, it's my passion! I'm excited to join a top-notch
 
 ### 👨🏻‍💻 Here are some of commercial projects that I have participated in 👨🏻‍💻
 
-<img src="/athotelLogo.svg" height="60px" />
+<img src="/athotelLogo.svg" height="40px" />
 
 [Athotel](https://athotel.com/) is a comprehensive hotel booking platform designed to provide users with a seamless experience from registration to booking. The platform allows users to register, search for hotels, adjust search parameters, and securely complete bookings. Built with React, TypeScript, and Tailwind CSS, Athotel leverages modern web technologies to deliver a fast and responsive user interface.
 
 <img src="/athotel.gif" style="width: 400px" />
 
-#### Key features:
-
-1. **Hotel Search**
-2. **Advanced Searching**
-3. **Secure Booking**
-4. **React Context API**
-5. **Testing with Cypress**
-6. **Component Documentation with Storybook**
-7. **Code Quality Assurance with Husky**
-8. **User Authentication with Auth0**
-9. **Analytics with Segment**
-10. **User Feedback with GrowthBook**
-11. **UI Components with AntDesign and Tailwind** 
-
 ---
+
+<img src="/athotelLogo.svg" height="40px" />
+
+[Athotel](https://athotel.com/) is a comprehensive hotel booking platform designed to provide users with a seamless experience from registration to booking. The platform allows users to register, search for hotels, adjust search parameters, and securely complete bookings. Built with React, TypeScript, and Tailwind CSS, Athotel leverages modern web technologies to deliver a fast and responsive user interface.
+
+<img src="/athotel.gif" style="width: 400px" />
+
+
+
 # Let's build something amazing together! 💻✨
 
 
