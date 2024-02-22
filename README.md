@@ -5,7 +5,7 @@ Coding isn't just a job for me, it's my passion! I'm excited to join a top-notch
 
 Let's build something amazing together! 💻✨
 
-###Below is a list of technologies I have worked with
+### Below is a list of technologies I have worked with
 
 <table>
   <tr>
