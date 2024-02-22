@@ -7,7 +7,7 @@ Let's build something amazing together! 💻✨
 
 Below is a list of technologies I have worked with
 
-|<img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="Markdown" width="30px" height="30px" />| React Hooks| Next.js    | Redux      |
+|●| React Hooks| Next.js    | Redux      |
 |------------|------------|------------|------------|
 | React      | React Hooks| Next.js    | Redux      |
 | JavaScript | TypeScript | SASS       | Tailwind   |
