@@ -9,12 +9,12 @@ Below is a list of technologies I have worked with
 
 |●| ●| ●   | ●    |
 |------------|------------|------------|------------|
-| HTML 5| JavaScript ES6| React   | Redux      |
+| HTML 5| JavaScript ES6| React   | Redux      | CSS
 || TypeScript |  Next.js     | Tailwind   |
-||| | React Hooks    |
-|||   | RESTful API|
-|||     | GitHub     |
-|||     | GrowthBook |
+||| React Hooks | SASS|
+|||   | Less|
+|||     | styled-components   |
+|||     | |
 
 
 
