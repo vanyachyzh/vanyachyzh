@@ -11,19 +11,14 @@ Below is a list of technologies I have worked with
 
 ### Popular Technologies
 
+|            |            |            |            |
+|------------|------------|------------|------------|
+| React      | React Hooks| Next.js    | Redux      |
+| JavaScript | TypeScript | SASS       | Tailwind   |
+| Styled Components | AntDesign | Storybook | Jest       |
+| Cypress    | SQL        | Firebase   | RESTful API|
+| WebSocket  | Pusher     | Postman    | GitHub     |
+| Bitbucket  | GitLab     | i18next    | GrowthBook |
 
-|-------------|-------------|----------|
-| Node.js     | Django      | Flask    |
-| TensorFlow  | PyTorch     | Keras    |
-| Docker      | Kubernetes  | Jenkins  |
-| HTML5       | CSS3        | JavaScript |
-| TypeScript  | Java        | Python   |
-| Ruby on Rails | ASP.NET   | Express.js |
-| MySQL       | PostgreSQL  | MongoDB  |
-| AWS         | Azure       | Google Cloud |
-| Flutter     | Swift       | Kotlin   |
-| React Native| Xamarin     | Ionic    |
-| Git         | GitHub      | GitLab   |
-| WordPress   | Drupal      | Joomla   |
 
 
