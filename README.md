@@ -1,1 +1,3 @@
 Hello
+![Code](/hero.jpg)
+
