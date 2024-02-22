@@ -7,7 +7,7 @@ Let's build something amazing together! 💻✨
 
 Below is a list of technologies I have worked with
 
-|●| ●| ●   | ●    |●| ●| ●   | ●    |
+|●| ●| ●   | ●    |
 |------------|------------|------------|------------|
 | HTML 5| React Hooks| Next.js    | Redux      |
 || TypeScript | SASS       | Tailwind   |
