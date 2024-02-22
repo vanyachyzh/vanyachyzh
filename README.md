@@ -7,18 +7,15 @@ Let's build something amazing together! 💻✨
 
 Below is a list of technologies I have worked with
 
-| ●           | ●             | ●          | ●           | ●                | ●                |
-|-------------|---------------|------------|-------------|------------------|------------------|
-| HTML 5      | JavaScript ES6| React      | Redux       | CSS              | Cypress          |
-|             | TypeScript    | React Hooks|             | Tailwind ❤️      | Jest             |
-|             |               | Next.js    |             | SASS             |                  | 
-|             |               |            |             | Less             |                  | 
-|             |               |            |             | styled components|                  | 
-|             |               |            |             | AntDesign        |                  |
-|             |               |            |             | Material UI      |                  |
- |RESTful API      | Storybook        | GitHub           | SQL              |
- | WebSocket        | GrowthBook       | Bitbucket        | Firebase         |
- | Pusher           | i18next          | GitLab           |                  |
-|Postman          |                  |                  |                  |
+| ●             | ●               | ●           | ●             | ●                  | ●                  |
+|---------------|-----------------|-------------|---------------|--------------------|--------------------|
+| HTML 5        | JavaScript ES6  | React       | Redux         | CSS                | Cypress            |
+|               | TypeScript      | React Hooks |               | Tailwind ❤️        | Jest               |
+| RESTful API   |                 | Next.js     |SQL            | SASS               |                    |
+| WebSocket     | Storybook       |             |Firebase       | Less               |                    |
+| Pusher        | GrowthBook      | GitHub      |               | styled components  |                    |
+| Postman       | i18next         | Bitbucket   |               | AntDesign          |                    |
+|               |                 | GitLab      |               | Material UI        |                    |
+
 
 
