@@ -74,6 +74,8 @@ Let's build something amazing together! 💻✨
 
 <img src="/athotelLogo.svg" height="40px" />
 
+Athotel is a comprehensive hotel booking platform designed to provide users with a seamless experience from registration to booking. The platform allows users to register, search for hotels, adjust search parameters, and securely complete bookings. Built with React, TypeScript, and Tailwind CSS, Athotel leverages modern web technologies to deliver a fast and responsive user interface.
+
 <img src="/athotel.gif" style="width: 400px" />
 
 
