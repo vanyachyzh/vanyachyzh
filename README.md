@@ -39,8 +39,6 @@ Coding isn't just a job for me, it's my passion! I'm excited to join a top-notch
 
 ---
 
-### Below is a list of technologies I have worked with 
-
 ### 👨🏻‍💻 Here are some of commercial projects that I have participated in 👨🏻‍💻
 
 <table>
@@ -57,72 +55,9 @@ Coding isn't just a job for me, it's my passion! I'm excited to join a top-notch
       <td><img src="/core42Dark.svg" height="100px" /></td>
       <td>Athotel is a comprehensive hotel booking platform designed to provide users with a seamless experience from registration to booking. The platform allows users to register, search for hotels, adjust search parameters, and securely complete bookings. Built with React, TypeScript, and Tailwind CSS, Athotel leverages modern web technologies to deliver a fast and responsive user interface.</td>
     </tr>
+        <tr>
+      <td><img src="/scholorize.svg" height="100px" /></td>
+      <td>Athotel is a comprehensive hotel booking platform designed to provide users with a seamless experience from registration to booking. The platform allows users to register, search for hotels, adjust search parameters, and securely complete bookings. Built with React, TypeScript, and Tailwind CSS, Athotel leverages modern web technologies to deliver a fast and responsive user interface.</td>
+    </tr>
   </tbody>
 </table>
-
-
-
-<table>
-  <tr>
-    <td>HTML 5</td>
-    <td>JavaScript ES6</td>
-    <td>React</td>
-    <td>Redux</td>
-    <td>CSS</td>
-    <td>Cypress</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>TypeScript</td>
-    <td>React Hooks</td>
-    <td></td>
-    <td>Tailwind ❤️</td>
-    <td>Jest</td>
-  </tr>
-  <tr>
-    <td>RESTful API</td>
-    <td></td>
-    <td>Next.js</td>
-    <td>SQL</td>
-    <td>SASS</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>WebSocket</td>
-    <td>Storybook</td>
-    <td></td>
-    <td>Firebase</td>
-    <td>Less</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Pusher</td>
-    <td>GrowthBook</td>
-    <td>GitHub</td>
-    <td></td>
-    <td>styled components</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Postman</td>
-    <td>i18next</td>
-    <td>Bitbucket</td>
-    <td></td>
-    <td>AntDesign</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td>GitLab</td>
-    <td></td>
-    <td>Material UI</td>
-    <td></td>
-  </tr>
-</table>
-
-
-
-
-
-
