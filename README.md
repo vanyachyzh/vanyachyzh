@@ -39,7 +39,7 @@ Coding isn't just a job for me, it's my passion! I'm excited to join a top-notch
 
 ---
 
-### 👨🏻‍💻 Here are some of commercial projects that I have participated in 👨🏻‍💻
+### Here are some of projects that I have participated in 
 
 <table>
   <tbody>
