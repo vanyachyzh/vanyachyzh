@@ -1,7 +1,6 @@
 # Hey there! 👋
 
-My name is Ivan, and this is my GitHub portfolio. As a seasoned web developer, I love crafting awesome websites from start to finish! Whether it's building robust code bases or collaborating with a team, I'm all in. I believe in creating code that's not only resilient but also super reusable, making future projects a breeze.
-Coding isn't just a job for me, it's my passion! I'm excited to join a top-notch engineering team where I can contribute to creating stellar solutions that push the boundaries of quality with every project.
+Hey there, I'm Ivan, and this is my GitHub playground! 🚀 I'm a web developer with a serious passion for crafting awesome websites from scratch. Whether I'm diving into building solid code bases or teaming up with fellow developers, count me in! I'm all about creating code that's not just strong but also super reusable, making future projects feel like a breeze.
 
 <h3>Things I code with</h3>
 
@@ -39,7 +38,7 @@ Coding isn't just a job for me, it's my passion! I'm excited to join a top-notch
 
 ---
 
-### Here are some of projects that I have participated in 
+### Some projects that I have participated in 
 
 <table>
   <tbody>
