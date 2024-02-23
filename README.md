@@ -76,13 +76,13 @@ Coding isn't just a job for me, it's my passion! I'm excited to join a top-notch
 
 
 
-# Athotel 
+# <img src="/athotelLogo.svg" height="40px" />
 
 <a href="https://athotel.com/"><img src="https://img.shields.io/badge/Go%20to%20website-8A2BE2" alt="Link"/></a>
 
 Athotel is a comprehensive hotel booking platform designed to provide users with a seamless experience from registration to booking. The platform allows users to register, search for hotels, adjust search parameters, and securely complete bookings. Built with React, TypeScript, and Tailwind CSS, Athotel leverages modern web technologies to deliver a fast and responsive user interface.
 
-<img src="/athotel.gif" style="width: 400px" /> <img src="/athotelLogo.svg" height="40px" />
+<img src="/athotel.gif" style="width: 400px" /> 
 
 Let's build something amazing together! 💻✨
 
