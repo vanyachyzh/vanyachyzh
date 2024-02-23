@@ -76,6 +76,7 @@ Coding isn't just a job for me, it's my passion! I'm excited to join a top-notch
 
 <img src="/athotelLogo.svg" height="40px" />
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sdvsdvdsv) 
 [Athotel](https://athotel.com/) is a comprehensive hotel booking platform designed to provide users with a seamless experience from registration to booking. The platform allows users to register, search for hotels, adjust search parameters, and securely complete bookings. Built with React, TypeScript, and Tailwind CSS, Athotel leverages modern web technologies to deliver a fast and responsive user interface.
 
 <img src="/athotel.gif" style="width: 400px" />
