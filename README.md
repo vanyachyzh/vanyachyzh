@@ -1,7 +1,6 @@
 # Hey there! 👋
 
-Hey there, I'm Ivan, and this is my GitHub playground! 🚀 I'm a web developer with a serious passion for crafting awesome websites from scratch. Whether I'm diving into building solid code bases or teaming up with fellow developers, count me in! I'm all about creating code that's not just strong but also super reusable, making future projects feel like a breeze.
-
+Hey there, I'm Ivan, and this is my GitHub playground! 🚀 I'm a web developer with a serious passion for crafting awesome websites from scratch.
 <h3>Things I code with</h3>
 
 <p>
