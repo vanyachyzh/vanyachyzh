@@ -6,7 +6,7 @@ Coding isn't just a job for me, it's my passion! I'm excited to join a top-notch
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="HTML" src="https://img.shields.io/badge/-HTML-8DD6F9?style=flat-square&logo=HTML&logoColor=white" /> 
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML-8DD6F9?style=flat-square&logo=html5&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
@@ -35,6 +35,15 @@ Coding isn't just a job for me, it's my passion! I'm excited to join a top-notch
 ---
 
 ### Below is a list of technologies I have worked with 
+
+### 👨🏻‍💻 Here are some of commercial projects that I have participated in 👨🏻‍💻
+
+| Header 1 | Header 2 |
+|----------|----------|
+|<img src="/athotelLogo.svg" height="40px" /> | Athotel is a comprehensive hotel booking platform designed to provide users with a seamless experience from registration to booking. The platform allows users to register, search for hotels, adjust search parameters, and securely complete bookings. Built with React, TypeScript, and Tailwind CSS, Athotel leverages modern web technologies to deliver a fast and responsive user interface.  |
+|<img src="/schoolhackLogo.svg" height="40px" /> | Athotel is a comprehensive hotel booking platform designed to provide users with a seamless experience from registration to booking. The platform allows users to register, search for hotels, adjust search parameters, and securely complete bookings. Built with React, TypeScript, and Tailwind CSS, Athotel leverages modern web technologies to deliver a fast and responsive user interface.  |
+|<img src="/core42Logo.svg" height="40px" /> | Athotel is a comprehensive hotel booking platform designed to provide users with a seamless experience from registration to booking. The platform allows users to register, search for hotels, adjust search parameters, and securely complete bookings. Built with React, TypeScript, and Tailwind CSS, Athotel leverages modern web technologies to deliver a fast and responsive user interface.  |
+
 
 <table>
   <tr>
@@ -101,17 +110,9 @@ Coding isn't just a job for me, it's my passion! I'm excited to join a top-notch
 
 ---
 
-### 👨🏻‍💻 Here are some of commercial projects that I have participated in 👨🏻‍💻
 
 
 
-# <img src="/athotelLogo.svg" height="40px" />
-
-<a href="https://athotel.com/"><img src="https://img.shields.io/badge/Go%20to%20website-8A2BE2" alt="Link"/></a>
-
-Athotel is a comprehensive hotel booking platform designed to provide users with a seamless experience from registration to booking. The platform allows users to register, search for hotels, adjust search parameters, and securely complete bookings. Built with React, TypeScript, and Tailwind CSS, Athotel leverages modern web technologies to deliver a fast and responsive user interface.
-
-<img src="/athotel.gif" style="width: 400px" /> 
 
 Let's build something amazing together! 💻✨
 
