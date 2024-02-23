@@ -6,13 +6,13 @@ Coding isn't just a job for me, it's my passion! I'm excited to join a top-notch
 <h3>Things I code with</h3>
 
 <p>
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23f43f5e?style=flat&logo=html5&labelColor=black">
-<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23ec4899?style=flat&logo=JavaScript&labelColor=black">
-<img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%23d946ef?style=flat&logo=TypeScript&labelColor=black">
-<img alt="Static Badge" src="https://img.shields.io/badge/React-%23a855f7?style=flat&logo=React&labelColor=black">
-<img alt="Static Badge" src="https://img.shields.io/badge/Next-%238b5cf6?style=flat&logo=next.js&labelColor=black">
-<img alt="Static Badge" src="https://img.shields.io/badge/Redux-%236366f1?style=flat&logo=Redux&labelColor=black">
-<img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%233b82f6?style=flat&logo=CSS3&labelColor=black">
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23f43f5e?style=flat&logo=html5&labelColor=gray">
+<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23ec4899?style=flat&logo=JavaScript&labelColor=gray">
+<img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%23d946ef?style=flat&logo=TypeScript&labelColor=gray">
+<img alt="Static Badge" src="https://img.shields.io/badge/React-%23a855f7?style=flat&logo=React&labelColor=gray">
+<img alt="Static Badge" src="https://img.shields.io/badge/Next-%238b5cf6?style=flat&logo=next.js&labelColor=gray">
+<img alt="Static Badge" src="https://img.shields.io/badge/Redux-%236366f1?style=flat&logo=Redux&labelColor=gray">
+<img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%233b82f6?style=flat&logo=CSS3&labelColor=gray">
 <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind-%230ea5e9?style=flat&logo=tailwindcss&labelColor=gray">
 <img alt="Static Badge" src="https://img.shields.io/badge/SASS-%2306b6d4?style=flat&logo=sass&labelColor=gray">
 <img alt="Static Badge" src="https://img.shields.io/badge/Less-%2314b8a6?style=flat&logo=less&labelColor=gray">
