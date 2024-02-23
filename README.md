@@ -12,6 +12,17 @@ Coding isn't just a job for me, it's my passion! I'm excited to join a top-notch
 <img alt="Static Badge" src="https://img.shields.io/badge/React-%23a855f7?style=flat&logo=React&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/Next-%238b5cf6?style=flat&logo=next.js&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/Redux-%236366f1?style=flat&logo=Redux&labelColor=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%233b82f6?style=flat&logo=CSS3&labelColor=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/Tailwind-%230ea5e9?style=flat&logo=tailwindcss&labelColor=gray">
+<img alt="Static Badge" src="https://img.shields.io/badge/SASS-%2306b6d4?style=flat&logo=sass&labelColor=gray">
+<img alt="Static Badge" src="https://img.shields.io/badge/Less-%2314b8a6?style=flat&logo=less&labelColor=gray">
+<img alt="Static Badge" src="https://img.shields.io/badge/styled%20components-%2322c55e?style=flat&logo=styled%20components&labelColor=gray">
+<img alt="Static Badge" src="https://img.shields.io/badge/AntDesign-%2384cc16?style=flat&logo=antdesign&labelColor=gray">
+<img alt="Static Badge" src="https://img.shields.io/badge/Material%20UI-%23eab308?style=flat&logo=mui&labelColor=gray">
+<img alt="Static Badge" src="https://img.shields.io/badge/Cypress-%23f59e0b?style=flat&logo=Cypress&labelColor=gray">
+<img alt="Static Badge" src="https://img.shields.io/badge/Jest-%23f97316?style=flat&logo=jest&labelColor=gray">
+<img alt="Static Badge" src="https://img.shields.io/badge/Pusher-%23ef4444?style=flat&logo=Pusher&labelColor=gray">
+
 
 
 
