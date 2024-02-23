@@ -1,3 +1,5 @@
+<img alt="Chromatica" width="100%" src="/chromatica.jpg">
+
 # Hey there! 👋
 
 I'm Ivan, and this is my GitHub playground! 🚀 I'm a web developer with a serious passion for crafting awesome websites from scratch.
