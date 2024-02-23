@@ -22,6 +22,19 @@ Coding isn't just a job for me, it's my passion! I'm excited to join a top-notch
 <img alt="Static Badge" src="https://img.shields.io/badge/Cypress-%23f59e0b?style=flat&logo=Cypress&labelColor=gray">
 <img alt="Static Badge" src="https://img.shields.io/badge/Jest-%23f97316?style=flat&logo=jest&labelColor=gray">
 <img alt="Static Badge" src="https://img.shields.io/badge/Pusher-%23ef4444?style=flat&logo=Pusher&labelColor=gray">
+<img alt="Static Badge" src="https://img.shields.io/badge/Postman-%23f43f5e?style=flat&logo=Postman&labelColor=gray">
+<img alt="Static Badge" src="https://img.shields.io/badge/Storybook-%23ec4899?style=flat&logo=Storybook&labelColor=gray">
+<img alt="Static Badge" src="https://img.shields.io/badge/GrowhBook-%23d946ef?style=flat">
+<img alt="Static Badge" src="https://img.shields.io/badge/i18next-%23a855f7?style=flat&logo=i18next&labelColor=gray">
+<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-%238b5cf6?style=flat&logo=GitHub&labelColor=gray">
+<img alt="Static Badge" src="https://img.shields.io/badge/GitLab-%236366f1?style=flat&logo=GitLab&labelColor=gray">
+<img alt="Static Badge" src="https://img.shields.io/badge/Bitbucket-%233b82f6?style=flat&logo=Bitbucket&labelColor=gray">
+<img alt="Static Badge" src="https://img.shields.io/badge/SQL-%230ea5e9?style=flat&logo=SQL">
+<img alt="Static Badge" src="https://img.shields.io/badge/Firebase-%2306b6d4?style=flat&logo=Firebase&labelColor=gray">
+<img alt="Static Badge" src="https://img.shields.io/badge/NPM-%2314b8a6?style=flat&logo=npm&labelColor=gray">
+<img alt="Static Badge" src="https://img.shields.io/badge/WebSocket-%2310b981?style=flat">
+<img alt="Static Badge" src="https://img.shields.io/badge/RESTful%20API-%2322c55e?style=flat">
+
 
 
 
