@@ -66,6 +66,10 @@ Coding isn't just a job for me, it's my passion! I'm excited to join a top-notch
   </tr>
 </table>
 
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
 ---
 
 ### 👨🏻‍💻 Here are some of commercial projects that I have participated in 👨🏻‍💻
