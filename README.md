@@ -44,16 +44,17 @@ I'm Ivan, and this is my GitHub playground! 🚀 I'm a web developer with a seri
 <table>
   <tbody>
     <tr>
-      <td><img src="/athotelLogo.svg" height="100px" /></td>
+      <td><img src="/athotelLogo.svg" height="150px" /></td>
       <td>Athotel is a comprehensive hotel booking platform designed to provide users with a seamless experience from registration to booking. The platform allows users to register, search for hotels, adjust search parameters, and securely complete bookings. Built with Next.js, TypeScript, SCSS, and Tailwind CSS, Athotel leverages modern web technologies to deliver a fast and responsive user interface.</td>
     </tr>
     <tr>
-      <td style="background: red; align-text: center;"><img src="/scholhackLogo.svg" height="100px" /></td>
+      <td><img src="/scholhackLogo.svg" height="150px" /></td>
       <td>
-SchoolHack is a dynamic educational platform featuring an array of innovative tools and functionalities. From seamless registration and login to engaging with Andy, our intelligent chatbot, users can effortlessly navigate through various features. Upload and analyze documents, videos, audios, and images, and enjoy social media-like feeds, groups, and chats. Benefit from plagiarism checking, summarization, and article creation tools, while earning and spending tokens across activities with Metamask integration. Dive into enriching quizzes for an enhanced learning experience. Powered by React, TypeScript, and SCSS, SchoolHack ensures a smooth and responsive user journey.</td>
+SchoolHack is a dynamic educational platform offering a range of features to enhance learning. Users can register, access Ask Andy chatbot support, upload and analyze various media types, and engage in social interactions like feeds and group chats. Key tools include plagiarism checking, summarization, and article creation. Users earn tokens for activities and can spend them within the platform. With integrated Metamask for secure transactions and quizzes for assessment, SchoolHack aims to revolutionize education.</td>
     </tr>
     <tr>
-      <td><img src="/core42Dark.svg" height="100px" /></td>
-      <td>Core42 is a versatile communication platform designed for seamless collaboration. It offers login/sign-in functionalities and supports chat with documents, audio, images, and videos. Users can crop images and query content within them. The platform also integrates a knowledge section for easy document reference. Explore global statistics on a world map, review chat session history, and enjoy different chat modes. With language internationalization, Core42 offers a personalized user experience. Built with TypeScript, Tailwind CSS, and React for a modern interface.</td>
+      <td><img src="/core42Dark.svg" height="150px" /></td>
+      <td>
+Core42 is a versatile platform offering streamlined login, chat, and document management features. Users can communicate via text, audio, images, and video within the chat system. The platform also includes image cropping and content-specific chat capabilities. A centralized knowledge section houses user documents, while interactive elements like a world map with statistics provide insights. Chat history and different chat modes enhance user experience. With language support and built with TypeScript, Tailwind, and React, Core42 prioritizes user convenience and efficiency.</td>
   </tbody>
 </table>
