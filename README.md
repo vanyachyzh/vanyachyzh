@@ -2,7 +2,7 @@
 
 # Hey there! 👋
 
-I'm Ivan, and this is my GitHub playground! 🚀 I'm a web developer with a serious passion for crafting awesome websites from scratch.
+Welcome to my GitHub! I'm Ivan, passionate about coding and crafting cool projects. Take a look around, and let's connect! 🚀
 <h3>Things I code with</h3>
 
 <p>
