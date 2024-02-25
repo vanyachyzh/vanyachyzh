@@ -5,7 +5,7 @@
 
 ### Welcome to my GitHub! I'm Ivan, passionate about coding and crafting cool projects. Take a look around, and let's connect! 🚀
 
-<h3>Some stats 📊📊📊</h3>
+<h3>Some stats</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanyachyzh&show_icons=true&theme=dracula&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
