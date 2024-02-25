@@ -1,9 +1,17 @@
 <img alt="Chromatica" width="100%" src="/chromatica.jpg">
 
-# Hey there! 👋 <img alt="HTML5" src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Fivan_chyzh%2F"> <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue&link=https%3A%2F%2Fwww.instagram.com%2Fivan_chyzh%2F" /> <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=blue&link=https%3A%2F%2Fwww.instagram.com%2Fivan_chyzh%2F" />
+# *Hey there!* 👋 <img alt="HTML5" src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Fivan_chyzh%2F"> <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue&link=https%3A%2F%2Fwww.instagram.com%2Fivan_chyzh%2F" /> <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=blue&link=https%3A%2F%2Fwww.instagram.com%2Fivan_chyzh%2F" />
 
 
 ### Welcome to my GitHub! I'm Ivan, passionate about coding and crafting cool projects. Take a look around, and let's connect! 🚀
+
+<h3>Some stats 📊📊📊</h3>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanyachyzh&show_icons=true&theme=dracula&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanyachyzh&layout=compact&theme=dracula&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+
 <h3>Things I code with</h3>
 
 <p>
