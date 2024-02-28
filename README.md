@@ -1,4 +1,4 @@
-<img alt="Chromatica" width="100%" src="/chromatica.jpg">
+
 
 # *Hey there!* 👋 <img alt="HTML5" src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Fivan_chyzh%2F"> <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue&link=https%3A%2F%2Fwww.instagram.com%2Fivan_chyzh%2F" /> <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=blue&link=https%3A%2F%2Fwww.instagram.com%2Fivan_chyzh%2F" />
 
