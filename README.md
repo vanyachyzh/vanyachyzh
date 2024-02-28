@@ -1,4 +1,4 @@
-<img alt="LG6" src="/lg6.png">
+<img alt="LG6" src="/lg-6.png">
 
 # *Hey there!* 👋 <a href="https://www.instagram.com/ivan_chyzh"><img alt="HTML5" src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Fivan_chyzh%2F"></a> <a href="https://www.linkedin.com/in/ivan-chyzh-8b927722a/"><img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue&link=https%3A%2F%2Fwww.instagram.com%2Fivan_chyzh%2F" /></a> <a href="http://t.me/ivan_chyzh"><img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=blue&link=https%3A%2F%2Fwww.instagram.com%2Fivan_chyzh%2F" /></a> <a href="mailto:ivan.chyzh.fe@gmail.com"><img src="https://img.shields.io/badge/ivan.chyzh.fe@gmail.com-gray?style=for-the-badge&logo=gmail" /></a>
 
