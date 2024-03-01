@@ -1,5 +1,4 @@
 <img alt="LG6" src="/lg-6.png">
-<img src="/logos/onDemand.svg" height="150px" />
 
 # _Hey there!_ 👋 <a href="https://www.instagram.com/ivan_chyzh"><img alt="HTML5" src="https://img.shields.io/badge/Instagram-white?style=plastic&logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Fivan_chyzh%2F"></a> <a href="https://www.linkedin.com/in/ivan-chyzh-8b927722a/"><img src="https://img.shields.io/badge/LinkedIn-white?style=plastic&logo=linkedin&logoColor=blue&link=https%3A%2F%2Fwww.instagram.com%2Fivan_chyzh%2F" /></a> <a href="http://t.me/ivan_chyzh"><img src="https://img.shields.io/badge/Telegram-white?style=plastic&logo=Telegram&logoColor=blue&link=https%3A%2F%2Fwww.instagram.com%2Fivan_chyzh%2F" /></a> <a href="mailto:ivan.chyzh.fe@gmail.com"><img src="https://img.shields.io/badge/ivan.chyzh.fe@gmail.com-gray?style=plastic&logo=gmail" /></a>
 
@@ -69,7 +68,7 @@ Core42 is a versatile platform offering streamlined login, chat, and document ma
       <td>
 Core42 is a versatile platform offering streamlined login, chat, and document management features. Users can communicate via text, audio, images, and video within the chat system. The platform also includes image cropping and content-specific chat capabilities. A centralized knowledge section houses user documents, while interactive elements like a world map with statistics provide insights. Chat history and different chat modes enhance user experience. With language support and built with TypeScript, Tailwind, and React, Core42 prioritizes user convenience and efficiency.</td>
     <tr>
-       <td><img src="/logos/onDemand.svg" height="150px" /></td>
+       <td><img src="/logos/onDemand.png" height="150px" /></td>
       <td>
 Core42 is a versatile platform offering streamlined login, chat, and document management features. Users can communicate via text, audio, images, and video within the chat system. The platform also includes image cropping and content-specific chat capabilities. A centralized knowledge section houses user documents, while interactive elements like a world map with statistics provide insights. Chat history and different chat modes enhance user experience. With language support and built with TypeScript, Tailwind, and React, Core42 prioritizes user convenience and efficiency.</td>
   </tbody>
