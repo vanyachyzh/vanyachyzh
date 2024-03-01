@@ -51,24 +51,24 @@
 <table>
   <tbody>
     <tr>
-      <td><img src="/logos/athotel.svg" height="150px" /></td>
+      <td><img src="/logos/athotel.svg" height="100px"  /></td>
       <td>Athotel is a comprehensive hotel booking platform designed to provide users with a seamless experience from registration to booking. The platform allows users to register, search for hotels, adjust search parameters, and securely complete bookings. Built with Next.js, TypeScript, SCSS, and Tailwind CSS, Athotel leverages modern web technologies to deliver a fast and responsive user interface.</td>
     </tr>
     <tr>
-      <td><img src="/logos/schoolhack.svg" height="150px" /></td>
+      <td><img src="/logos/schoolhack.svg"  /></td>
       <td>
 SchoolHack is a dynamic educational platform offering a range of features to enhance learning. Users can register, access Ask Andy chatbot support, upload and analyze various media types, and engage in social interactions like feeds and group chats. Key tools include plagiarism checking, summarization, and article creation. Users earn tokens for activities and can spend them within the platform. With integrated Metamask for secure transactions and quizzes for assessment, SchoolHack aims to revolutionize education.</td>
     </tr>
     <tr>
-      <td><img src="/logos/core42.svg" height="150px" /></td>
+      <td><img src="/logos/core42.svg"  /></td>
       <td>
 Core42 is a versatile platform offering streamlined login, chat, and document management features. Users can communicate via text, audio, images, and video within the chat system. The platform also includes image cropping and content-specific chat capabilities. A centralized knowledge section houses user documents, while interactive elements like a world map with statistics provide insights. Chat history and different chat modes enhance user experience. With language support and built with TypeScript, Tailwind, and React, Core42 prioritizes user convenience and efficiency.</td>
     <tr>
-      <td><img src="/logos/scholorize.svg" height="150px" /></td>
+      <td><img src="/logos/scholorize.svg" /></td>
       <td>
 Core42 is a versatile platform offering streamlined login, chat, and document management features. Users can communicate via text, audio, images, and video within the chat system. The platform also includes image cropping and content-specific chat capabilities. A centralized knowledge section houses user documents, while interactive elements like a world map with statistics provide insights. Chat history and different chat modes enhance user experience. With language support and built with TypeScript, Tailwind, and React, Core42 prioritizes user convenience and efficiency.</td>
     <tr>
-       <td><img src="/logos/onDemand.png" height="150px" /></td>
+       <td><img src="/logos/onDemand.png" /></td>
       <td>
 Core42 is a versatile platform offering streamlined login, chat, and document management features. Users can communicate via text, audio, images, and video within the chat system. The platform also includes image cropping and content-specific chat capabilities. A centralized knowledge section houses user documents, while interactive elements like a world map with statistics provide insights. Chat history and different chat modes enhance user experience. With language support and built with TypeScript, Tailwind, and React, Core42 prioritizes user convenience and efficiency.</td>
   </tbody>
