@@ -1,14 +1,18 @@
 <img alt="LG6" src="/lg-6.png">
 
-# _Hey there!_ 👋 <a href="https://www.instagram.com/ivan_chyzh"><img alt="HTML5" src="https://img.shields.io/badge/Instagram-white?style=plastic&logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Fivan_chyzh%2F"></a> <a href="https://www.linkedin.com/in/ivan-chyzh-8b927722a/"><img src="https://img.shields.io/badge/LinkedIn-white?style=plastic&logo=linkedin&logoColor=blue&link=https%3A%2F%2Fwww.instagram.com%2Fivan_chyzh%2F" /></a> <a href="http://t.me/ivan_chyzh"><img src="https://img.shields.io/badge/Telegram-white?style=plastic&logo=Telegram&logoColor=blue&link=https%3A%2F%2Fwww.instagram.com%2Fivan_chyzh%2F" /></a> <a href="mailto:ivan.chyzh.fe@gmail.com"><img src="https://img.shields.io/badge/ivan.chyzh.fe@gmail.com-gray?style=plastic&logo=gmail" /></a>
+# _Hey there!_ 👋
 
 ### Welcome to my GitHub! I'm Ivan, passionate about coding and crafting cool projects. Take a look around, and let's connect! 🚀
+
+---
 
 <h3>Some stats</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanyachyzh&show_icons=true&theme=dracula&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanyachyzh&layout=compact&theme=dracula&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+---
 
 <h3>Things I code with</h3>
 
@@ -52,24 +56,25 @@
   <tbody>
     <tr>
       <td><img src="/logos/athotel.svg" height="100px"  /></td>
-      <td>Athotel is a comprehensive hotel booking platform designed to provide users with a seamless experience from registration to booking. The platform allows users to register, search for hotels, adjust search parameters, and securely complete bookings. Built with Next.js, TypeScript, SCSS, and Tailwind CSS, Athotel leverages modern web technologies to deliver a fast and responsive user interface.</td>
+      <td>Athotel is a comprehensive hotel booking platform designed to provide users with a seamless experience from registration to booking. The platform allows users to register, search for hotels, adjust search parameters, and securely complete bookings. Built with Next.js, TypeScript, SCSS, and Tailwind CSS, Athotel leverages modern web technologies to deliver a fast and responsive user interface. <a href="https://athotel.com/">Go to website</a> </td>
     </tr>
     <tr>
       <td><img src="/logos/schoolhack.svg"  /></td>
       <td>
-SchoolHack is a dynamic educational platform offering a range of features to enhance learning. Users can register, access Ask Andy chatbot support, upload and analyze various media types, and engage in social interactions like feeds and group chats. Key tools include plagiarism checking, summarization, and article creation. Users earn tokens for activities and can spend them within the platform. With integrated Metamask for secure transactions and quizzes for assessment, SchoolHack aims to revolutionize education.</td>
+SchoolHack is a dynamic educational platform offering a range of features to enhance learning. Users can register, access Ask Andy chatbot support, upload and analyze various media types, and engage in social interactions like feeds and group chats. Key tools include plagiarism checking, summarization, and article creation. Users earn tokens for activities and can spend them within the platform. With integrated Metamask for secure transactions and quizzes for assessment, SchoolHack aims to revolutionize education. <a href="https://app.schoolhack.ai/">Go to website</a> </td>
     </tr>
     <tr>
       <td><img src="/logos/core42.svg"  /></td>
       <td>
-Core42 is a versatile platform offering streamlined login, chat, and document management features. Users can communicate via text, audio, images, and video within the chat system. The platform also includes image cropping and content-specific chat capabilities. A centralized knowledge section houses user documents, while interactive elements like a world map with statistics provide insights. Chat history and different chat modes enhance user experience. With language support and built with TypeScript, Tailwind, and React, Core42 prioritizes user convenience and efficiency.</td>
-    <tr>
-      <td><img src="/logos/scholorize.svg" /></td>
-      <td>
-Core42 is a versatile platform offering streamlined login, chat, and document management features. Users can communicate via text, audio, images, and video within the chat system. The platform also includes image cropping and content-specific chat capabilities. A centralized knowledge section houses user documents, while interactive elements like a world map with statistics provide insights. Chat history and different chat modes enhance user experience. With language support and built with TypeScript, Tailwind, and React, Core42 prioritizes user convenience and efficiency.</td>
-    <tr>
-       <td><img src="/logos/onDemand.png" /></td>
-      <td>
-Core42 is a versatile platform offering streamlined login, chat, and document management features. Users can communicate via text, audio, images, and video within the chat system. The platform also includes image cropping and content-specific chat capabilities. A centralized knowledge section houses user documents, while interactive elements like a world map with statistics provide insights. Chat history and different chat modes enhance user experience. With language support and built with TypeScript, Tailwind, and React, Core42 prioritizes user convenience and efficiency.</td>
+Core42 is a versatile platform offering streamlined login, chat, and document management features. Users can communicate via text, audio, images, and video within the chat system. The platform also includes image cropping and content-specific chat capabilities. A centralized knowledge section houses user documents, while interactive elements like a world map with statistics provide insights. Chat history and different chat modes enhance user experience. With language support and built with TypeScript, Tailwind, and React, Core42 prioritizes user convenience and efficiency. <a href="https://core42-frontend.vercel.app/">Go to website</a> </td>
   </tbody>
 </table>
+
+---
+
+<h3>You can reach out to me via the following channels ↓↓↓</h3>
+
+<a href="https://www.instagram.com/ivan_chyzh"><img alt="HTML5" src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Fivan_chyzh%2F"></a> <a href="https://www.linkedin.com/in/ivan-chyzh-8b927722a/"><img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue&link=https%3A%2F%2Fwww.instagram.com%2Fivan_chyzh%2F" /></a> <a href="http://t.me/ivan_chyzh"><img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=blue&link=https%3A%2F%2Fwww.instagram.com%2Fivan_chyzh%2F" /></a> <a href="mailto:ivan.chyzh.fe@gmail.com"><img src="https://img.shields.io/badge/ivan.chyzh.fe@gmail.com-gray?style=for-the-badge&logo=gmail" /></a>
+
+Feel free to connect with me for inquiries, collaborations, or just to say hello!
+
