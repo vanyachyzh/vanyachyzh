@@ -71,6 +71,13 @@
       <td>
         Core42 is a versatile platform offering streamlined login, chat, and document management features. Users can communicate via text, audio, images, and video within the chat system.          The platform also includes image cropping and content-specific chat capabilities. A centralized knowledge section houses user documents, while interactive elements like a world map         with statistics provide insights. Chat history and different chat modes enhance user experience. With language support and built with TypeScript, Tailwind, and React, Core42                prioritizes user convenience and efficiency. <a href="https://core42-frontend.vercel.app/" target="_blank">Go to website</a>
       </td>
+    </tr>
+    <tr>
+      <td><img src="/logos/scholorize.svg" /></td>
+      <td>
+        Scholarize is a project designed to facilitate user authentication and cryptocurrency integration. Users have the flexibility to choose between three roles - holder, player, or company - dictating their involvement in profit-sharing arrangements. Additionally, the platform provides tools for analyzing player and game statistics. <a href="https://scholarize-8c375.web.app/" target="_blank">Go to website</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
