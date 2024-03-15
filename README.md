@@ -75,7 +75,7 @@
     <tr>
       <td><img src="/logos/scholorize.svg" /></td>
       <td>
-        Scholarize is a project designed to facilitate user authentication and cryptocurrency integration. Users have the flexibility to choose between three roles - holder, player, or company - dictating their involvement in profit-sharing arrangements. Additionally, the platform provides tools for analyzing player and game statistics. <a href="https://scholarize-8c375.web.app/" target="_blank">Go to website</a>
+        Scholarize is a project designed to facilitate user authentication and cryptocurrency integration. Users have the flexibility to choose between three roles - holder, player, or company - dictating their involvement in profit-sharing arrangements. Additionally, the platform provides tools for analyzing player and game statistics.. <a href="https://scholarize-8c375.web.app/" target="_blank">Go to website</a>
       </td>
     </tr>
   </tbody>
